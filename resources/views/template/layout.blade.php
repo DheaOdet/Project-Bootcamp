@@ -25,10 +25,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ms-auto">
-                    <a class="nav-link" href='/about'>About as</a>
-                    <a class="nav-link" href='/contact'>Contact us</a>
+                    <a class="nav-link" href='/about'>About Us</a>
+                    <a class="nav-link" href='/contact'>Contact Us</a>
                     <a class="nav-link" href='/login'>Login</a>
-                    <a class="nav-link" href='/register'>register</a>
+                    <a class="nav-link" href='/register'>Register</a>
                 </div>
             </div>
         </div>
