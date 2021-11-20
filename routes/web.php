@@ -19,3 +19,4 @@ Route::get('/about', [PageController::class, "about"]);
 Route::get('/contact', [PageController::class, "contact"]);
 Route::get('/login', [PageController::class, "login"]);
 Route::get('/register', [PageController::class, "register"]);
+Route::get('/detail', [PageController::class, "detail"]);

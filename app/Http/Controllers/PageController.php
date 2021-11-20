@@ -23,4 +23,8 @@ class PageController extends Controller
     public function register(){
         return view("register");
         }
+    
+    public function detail(){
+    return view("kecamatan.detail");
+        }
 } 

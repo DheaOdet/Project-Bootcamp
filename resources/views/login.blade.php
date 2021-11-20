@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="../img/mainbg.jpg" class="loginimg mw-100 img-fluid" alt="Responsive image">
+            <img src="../img/animasi.jpg" class="loginimg mw-100 img-fluid" alt="Responsive image">
         </div>
         <div class="col">
             <div class="container">

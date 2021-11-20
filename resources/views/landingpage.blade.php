@@ -15,72 +15,82 @@
         <ul class="d-flex justify-content-center list-group list-group-horizontal-sm">
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Kubu</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
 
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Manggis</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
 
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Rendang</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
 
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Selat</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
+        </ul>
 
+        <ul class="d-flex justify-content-center list-group list-group-horizontal-sm">
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Sidemen</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
 
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Abang</p>
+                        <a href="/detail" class="btn btn-primary">Visi</a>
                     </div>
                 </div>
             </li>
 
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Bebandem</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
 
             <li class="list-group-item">
                 <div class="card">
-                    <img src="../img/mainbg.jpg" class="card-img-top" alt="...">
+                    <img src="../img/kubu2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Kecamatan Karangasem</p>
+                        <a href="/detail" class="btn btn-primary">Visit</a>
                     </div>
                 </div>
             </li>
